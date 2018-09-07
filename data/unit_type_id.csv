@@ -1,0 +1,8 @@
+unit_type_id;unit_type_name_th;unit_type_name_en
+1;บ้านเดี่ยว;Detached_House
+2;บ้านแฝด;Semi_Detached_House
+3;คอนโดมิเนียม;Condominium
+4;ทาวน์โฮม;Townhome
+5;โฮมออฟฟิส;Home_Office
+6;อาคารพาณิชย์;Shophouse
+7;ที่ดิน;Land

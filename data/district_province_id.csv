@@ -1,0 +1,929 @@
+district_id;district_name_th;district_name_en;province_id;province_name_th;province_name_en
+1001;พระนคร;Phra Nakhon;10;กรุงเทพมหานคร;Bangkok
+1002;ดุสิต;Dusit;10;กรุงเทพมหานคร;Bangkok
+1008;ป้อมปราบศัตรูพ่าย;Pom Prap Sattruphai;10;กรุงเทพมหานคร;Bangkok
+1013;สัมพันธวงศ์;Samphanthawong;10;กรุงเทพมหานคร;Bangkok
+1004;บางรัก;Bang Rak;10;กรุงเทพมหานคร;Bangkok
+1015;ธนบุรี;Thon Buri;10;กรุงเทพมหานคร;Bangkok
+1018;คลองสาน;Khlong San;10;กรุงเทพมหานคร;Bangkok
+1022;ภาษีเจริญ;Phasi Charoen;10;กรุงเทพมหานคร;Bangkok
+1016;บางกอกใหญ่;Bangkok Yai;10;กรุงเทพมหานคร;Bangkok
+1037;ราชเทวี;Rat Thewi;10;กรุงเทพมหานคร;Bangkok
+1019;ตลิ่งชัน;Taling Chan;10;กรุงเทพมหานคร;Bangkok
+1007;ปทุมวัน;Pathum Wan;10;กรุงเทพมหานคร;Bangkok
+1020;บางกอกน้อย;Bangkok Noi;10;กรุงเทพมหานคร;Bangkok
+1031;บางคอแหลม;Bang Kho Laem;10;กรุงเทพมหานคร;Bangkok
+1033;คลองเตย;Khlong Toei;10;กรุงเทพมหานคร;Bangkok
+1028;สาทร;Sa Thon;10;กรุงเทพมหานคร;Bangkok
+1039;วัฒนา;Watthana;10;กรุงเทพมหานคร;Bangkok
+1025;บางพลัด;Bang Phlat;10;กรุงเทพมหานคร;Bangkok
+1035;จอมทอง;Chom Thong;10;กรุงเทพมหานคร;Bangkok
+1017;ห้วยขวาง;Huai Khwang;10;กรุงเทพมหานคร;Bangkok
+1012;ยานนาวา;Yannawa;10;กรุงเทพมหานคร;Bangkok
+1024;ราษฎร์บูรณะ;Rat Burana;10;กรุงเทพมหานคร;Bangkok
+1041;หลักสี่;Lak Si;10;กรุงเทพมหานคร;Bangkok
+1038;ลาดพร้าว;Lat Phrao;10;กรุงเทพมหานคร;Bangkok
+1026;ดินแดง;Din Daeng;10;กรุงเทพมหานคร;Bangkok
+1014;พญาไท;Phaya Thai;10;กรุงเทพมหานคร;Bangkok
+1040;บางแค;Bang Khae;10;กรุงเทพมหานคร;Bangkok
+1046;คลองสามวา;Khlong Sam Wa;10;กรุงเทพมหานคร;Bangkok
+1011;ลาดกระบัง;Lat Krabang;10;กรุงเทพมหานคร;Bangkok
+1049;ทุ่งครุ;Thung Khu;10;กรุงเทพมหานคร;Bangkok
+1006;บางกะปิ;Bang Kapi;10;กรุงเทพมหานคร;Bangkok
+1042;สายไหม;Sai Mai;10;กรุงเทพมหานคร;Bangkok
+1032;ประเวศ;Prawet;10;กรุงเทพมหานคร;Bangkok
+1029;บางซื่อ;Bang Su;10;กรุงเทพมหานคร;Bangkok
+1009;พระโขนง;Phra Khanong;10;กรุงเทพมหานคร;Bangkok
+1003;หนองจอก;Nong Chok;10;กรุงเทพมหานคร;Bangkok
+1047;บางนา;Bang Na;10;กรุงเทพมหานคร;Bangkok
+1023;หนองแขม;Nong Khaem;10;กรุงเทพมหานคร;Bangkok
+1045;วังทองหลาง;Wang Thong Lang;10;กรุงเทพมหานคร;Bangkok
+1005;บางเขน;Bang Khen;10;กรุงเทพมหานคร;Bangkok
+1048;ทวีวัฒนา;Thawi Watthana;10;กรุงเทพมหานคร;Bangkok
+1027;บึงกุ่ม;Bung Kum;10;กรุงเทพมหานคร;Bangkok
+1034;สวนหลวง;Suan Luang;10;กรุงเทพมหานคร;Bangkok
+1010;มีนบุรี;Min Buri;10;กรุงเทพมหานคร;Bangkok
+1043;คันนายาว;Khanna Yao;10;กรุงเทพมหานคร;Bangkok
+1044;สะพานสูง;Saphan Sung;10;กรุงเทพมหานคร;Bangkok
+1030;จตุจักร;Chatuchak;10;กรุงเทพมหานคร;Bangkok
+1050;บางบอน;Bang Bon;10;กรุงเทพมหานคร;Bangkok
+1036;ดอนเมือง;Don Mueang;10;กรุงเทพมหานคร;Bangkok
+1021;บางขุนเทียน;Bang Khun Thian;10;กรุงเทพมหานคร;Bangkok
+1104;พระประแดง;Phra Pradaeng;11;สมุทรปราการ;Samut Prakarn
+1101;เมืองสมุทรปราการ;Mueang Samut Prakan;11;สมุทรปราการ;Samut Prakarn
+1105;พระสมุทรเจดีย์;Phra Samut Chedi;11;สมุทรปราการ;Samut Prakarn
+1102;บางบ่อ;Bang Bo;11;สมุทรปราการ;Samut Prakarn
+1106;บางเสาธง;Bang Sao Thong;11;สมุทรปราการ;Samut Prakarn
+1103;บางพลี;Bang Phli;11;สมุทรปราการ;Samut Prakarn
+1204;บางบัวทอง;Bang Bua Thong;12;นนทบุรี;Nonthaburi
+1206;ปากเกร็ด;Pak Kret;12;นนทบุรี;Nonthaburi
+1202;บางกรวย;Bang Kruai;12;นนทบุรี;Nonthaburi
+1201;เมืองนนทบุรี;Mueang Nonthaburi;12;นนทบุรี;Nonthaburi
+1203;บางใหญ่;Bang Yai;12;นนทบุรี;Nonthaburi
+1205;ไทรน้อย;Sai Noi;12;นนทบุรี;Nonthaburi
+1301;เมืองปทุมธานี;Mueang Pathum Thani;13;ปทุมธานี;Pathum Thani
+1307;สามโคก;Sam Khok;13;ปทุมธานี;Pathum Thani
+1305;ลาดหลุมแก้ว;Lat Lum Kaeo;13;ปทุมธานี;Pathum Thani
+1303;ธัญบุรี;Thanyaburi;13;ปทุมธานี;Pathum Thani
+1302;คลองหลวง;khlong Luang;13;ปทุมธานี;Pathum Thani
+1306;ลำลูกกา;Lam Luk Ka;13;ปทุมธานี;Pathum Thani
+1304;หนองเสือ;Nong Suea;13;ปทุมธานี;Pathum Thani
+1412;เสนา;Sena;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1401;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1408;ผักไห่;Phak Hai;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1404;บางไทร;Bang Sai;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1402;ท่าเรือ;Tha Ruea;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1407;บางปะหัน;Bang Pahan;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1416;บ้านแพรก;Ban Phraek;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1415;มหาราช;Maha Rat;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1414;อุทัย;Uthai;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1405;บางบาล;Bang Ban;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1406;บางปะอิน;Bang Pa-in;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1403;นครหลวง;Nakhon Luang;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1409;ภาชี;Phachi;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1413;บางซ้าย;Bang Sai;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1411;วังน้อย;Wang Noi;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1410;ลาดบัวหลวง;Lat Bua Luang;14;พระนครศรีอยุธยา;Phra Nakhon Si Ayutthaya
+1501;เมืองอ่างทอง;Mueang Ang Thong;15;อ่างทอง;Ang Thong
+1502;ไชโย;Chaiyo;15;อ่างทอง;Ang Thong
+1504;โพธิ์ทอง;Pho Thong;15;อ่างทอง;Ang Thong
+1503;ป่าโมก;Pa Mok;15;อ่างทอง;Ang Thong
+1506;วิเศษชัยชาญ;Wiset Chai Chan;15;อ่างทอง;Ang Thong
+1505;แสวงหา;Sawaeng Ha;15;อ่างทอง;Ang Thong
+1507;สามโก้;Samko;15;อ่างทอง;Ang Thong
+1601;เมืองลพบุรี;Mueang Lop Buri;16;ลพบุรี;Lop Buri
+1606;บ้านหมี่;Ban Mi;16;ลพบุรี;Lop Buri
+1608;สระโบสถ์;Sa Bot;16;ลพบุรี;Lop Buri
+1605;ท่าวุ้ง;Tha Wung;16;ลพบุรี;Lop Buri
+1603;โคกสำโรง;Khok Samrong;16;ลพบุรี;Lop Buri
+1604;ชัยบาดาล;Chai Badan;16;ลพบุรี;Lop Buri
+1610;ลำสนธิ;Lam Sonthi;16;ลพบุรี;Lop Buri
+1611;หนองม่วง;Nong Muang;16;ลพบุรี;Lop Buri
+1607;ท่าหลวง;Tha Luang;16;ลพบุรี;Lop Buri
+1602;พัฒนานิคม;Phatthana Nikhom;16;ลพบุรี;Lop Buri
+1609;โคกเจริญ;Khok Charoen;16;ลพบุรี;Lop Buri
+1701;เมืองสิงห์บุรี;Mueang Sing Buri;17;สิงห์บุรี;Sing Buri
+1705;ท่าช้าง;Tha Chang;17;สิงห์บุรี;Sing Buri
+1704;พรหมบุรี;Phrom Buri;17;สิงห์บุรี;Sing Buri
+1706;อินทร์บุรี;In Buri;17;สิงห์บุรี;Sing Buri
+1703;ค่ายบางระจัน;Khai Bang Rachan;17;สิงห์บุรี;Sing Buri
+1702;บางระจัน;Bang Rachan;17;สิงห์บุรี;Sing Buri
+1803;วัดสิงห์;Wat Sing;18;ชัยนาท;Chai Nat
+1801;เมืองชัยนาท;Mueang Chai Nat;18;ชัยนาท;Chai Nat
+1805;สรรคบุรี;Sankhaburi;18;ชัยนาท;Chai Nat
+1804;สรรพยา;Sapphaya;18;ชัยนาท;Chai Nat
+1802;มโนรมย์;Manorom;18;ชัยนาท;Chai Nat
+1806;หันคา;Hankha;18;ชัยนาท;Chai Nat
+1807;หนองมะโมง;Nong Mamong;18;ชัยนาท;Chai Nat
+1808;เนินขาม;Noen Kham;18;ชัยนาท;Chai Nat
+1902;แก่งคอย;Kaeng Khoi;19;สระบุรี;Saraburi
+1901;เมืองสระบุรี;Mueang Saraburi;19;สระบุรี;Saraburi
+1910;เสาไห้;Sao Hai;19;สระบุรี;Saraburi
+1905;หนองแซง;Nong Saeng;19;สระบุรี;Saraburi
+1903;หนองแค;Nong Khae;19;สระบุรี;Saraburi
+1907;ดอนพุด;Don Phut;19;สระบุรี;Saraburi
+1906;บ้านหมอ;Ban Mo;19;สระบุรี;Saraburi
+1913;เฉลิมพระเกียรติ;Chaloem Phra Kiet;19;สระบุรี;Saraburi
+1909;พระพุทธบาท;Phra Phutthabat;19;สระบุรี;Saraburi
+1904;วิหารแดง;Wihan Daeng;19;สระบุรี;Saraburi
+1908;หนองโดน;Nong Don;19;สระบุรี;Saraburi
+1912;วังม่วง;Wang Muang;19;สระบุรี;Saraburi
+1911;มวกเหล็ก;Muak Lek;19;สระบุรี;Saraburi
+2009;สัตหีบ;Sattahip;20;ชลบุรี;Chon Buri
+2007;ศรีราชา;Si Racha;20;ชลบุรี;Chon Buri
+2004;บางละมุง;Bang Lamung;20;ชลบุรี;Chon Buri
+2001;เมืองชลบุรี;Mueang Chon Buri;20;ชลบุรี;Chon Buri
+2006;พนัสนิคม;Phanat Nikhom;20;ชลบุรี;Chon Buri
+2008;เกาะสีชัง;Ko Sichang;20;ชลบุรี;Chon Buri
+2005;พานทอง;Phan Thong;20;ชลบุรี;Chon Buri
+2002;บ้านบึง;Ban Bueng;20;ชลบุรี;Chon Buri
+2010;บ่อทอง;Bo Thong;20;ชลบุรี;Chon Buri
+2003;หนองใหญ่;Nong Yai;20;ชลบุรี;Chon Buri
+2011;เกาะจันทร์;Ko Chan;20;ชลบุรี;Chon Buri
+2101;เมืองระยอง;Mueang Rayong;21;ระยอง;Rayong
+2103;แกลง;Klaeng;21;ระยอง;Rayong
+2105;บ้านค่าย;Ban Khai;21;ระยอง;Rayong
+2102;บ้านฉาง;Ban Chang;21;ระยอง;Rayong
+2104;วังจันทร์;Wang Chan;21;ระยอง;Rayong
+2108;นิคมพัฒนา;Nikhom Phatthana;21;ระยอง;Rayong
+2106;ปลวกแดง;Pluak Daeng;21;ระยอง;Rayong
+2107;เขาชะเมา;Khao Chamao;21;ระยอง;Rayong
+2206;แหลมสิงห์;Laem Sing;22;จันทบุรี;Chanthaburi
+2202;ขลุง;Khlung;22;จันทบุรี;Chanthaburi
+2203;ท่าใหม่;Tha Mai;22;จันทบุรี;Chanthaburi
+2201;เมืองจันทบุรี;Mueang Chanthaburi;22;จันทบุรี;Chanthaburi
+2209;นายายอาม;Na Yai Am;22;จันทบุรี;Chanthaburi
+2205;มะขาม;Makham;22;จันทบุรี;Chanthaburi
+2208;แก่งหางแมว;Kaeng Hang Maeo;22;จันทบุรี;Chanthaburi
+2210;เขาคิชฌกูฏ;Khao Khitchakut;22;จันทบุรี;Chanthaburi
+2207;สอยดาว;Soi Dao;22;จันทบุรี;Chanthaburi
+2204;โป่งน้ำร้อน;Pong Nam Ron;22;จันทบุรี;Chanthaburi
+2306;เกาะกูด;Ko Kut;23;ตราด;Trat
+2307;เกาะช้าง;Ko Chang;23;ตราด;Trat
+2302;คลองใหญ่;Khlong Yai;23;ตราด;Trat
+2301;เมืองตราด;Mueang Trat;23;ตราด;Trat
+2305;แหลมงอบ;Laem Ngop;23;ตราด;Trat
+2303;เขาสมิง;Khao Saming;23;ตราด;Trat
+2304;บ่อไร่;Bo Rai;23;ตราด;Trat
+2401;เมืองฉะเชิงเทรา;Mueang Chachoengsao;24;ฉะเชิงเทรา;Chachoengsao
+2402;บางคล้า;Bang Khla;24;ฉะเชิงเทรา;Chachoengsao
+2405;บ้านโพธิ์;Ban Pho;24;ฉะเชิงเทรา;Chachoengsao
+2404;บางปะกง;Bang Pakong;24;ฉะเชิงเทรา;Chachoengsao
+2411;คลองเขื่อน;Khlong Khuean;24;ฉะเชิงเทรา;Chachoengsao
+2406;พนมสารคาม;Phanom Sarakham;24;ฉะเชิงเทรา;Chachoengsao
+2403;บางน้ำเปรี้ยว;Bang Nam Priao;24;ฉะเชิงเทรา;Chachoengsao
+2407;ราชสาส์น;Ratchasan;24;ฉะเชิงเทรา;Chachoengsao
+2409;แปลงยาว;Pleang Yao;24;ฉะเชิงเทรา;Chachoengsao
+2408;สนามชัยเขต;Sanam Chai Khet;24;ฉะเชิงเทรา;Chachoengsao
+2410;ท่าตะเกียบ;Tha Takiap;24;ฉะเชิงเทรา;Chachoengsao
+2501;เมืองปราจีนบุรี;Mueang Prachin Buri;25;ปราจีนบุรี;Prachin Buri
+2508;ศรีมหาโพธิ;Si Maha Phot;25;ปราจีนบุรี;Prachin Buri
+2507;ประจันตคาม;Prachantakham;25;ปราจีนบุรี;Prachin Buri
+2509;ศรีมโหสถ;Si Mahosot;25;ปราจีนบุรี;Prachin Buri
+2506;บ้านสร้าง;Ban Sang;25;ปราจีนบุรี;Prachin Buri
+2502;กบินทร์บุรี;Kabin Buri;25;ปราจีนบุรี;Prachin Buri
+2503;นาดี;Na Di;25;ปราจีนบุรี;Prachin Buri
+2601;เมืองนครนายก;Mueang Nakhon Nayok;26;นครนายก;Nakhon Nayok
+2602;ปากพลี;Pak Phli;26;นครนายก;Nakhon Nayok
+2603;บ้านนา;Ban Na;26;นครนายก;Nakhon Nayok
+2604;องครักษ์;Ongkharak;26;นครนายก;Nakhon Nayok
+2706;อรัญประเทศ;Aranyaprathet;27;สระแก้ว;Sa kaeo
+2707;เขาฉกรรจ์;Khao Chakan;27;สระแก้ว;Sa kaeo
+2708;โคกสูง;Khok Sung;27;สระแก้ว;Sa kaeo
+2701;เมืองสระแก้ว;Mueang Sa Kaeo;27;สระแก้ว;Sa kaeo
+2705;วัฒนานคร;Watthana Nakhon;27;สระแก้ว;Sa kaeo
+2702;คลองหาด;Khlong Hat;27;สระแก้ว;Sa kaeo
+2704;วังน้ำเย็น;Wang Nam Yen;27;สระแก้ว;Sa kaeo
+2703;ตาพระยา;Ta Phraya;27;สระแก้ว;Sa kaeo
+2709;วังสมบูรณ์;Wang Sombun;27;สระแก้ว;Sa kaeo
+3018;สูงเนิน;Sung Noen;30;นครราชสีมา;Nakhon Ratchasima
+3001;เมืองนครราชสีมา;Mueang Nakhon Ratchasima;30;นครราชสีมา;Nakhon Ratchasima
+3014;ปักธงชัย;Pak Thong Chai;30;นครราชสีมา;Nakhon Ratchasima
+3010;โนนสูง;Non Sung;30;นครราชสีมา;Nakhon Ratchasima
+3016;ห้วยแถลง;Huai Thalaeng;30;นครราชสีมา;Nakhon Ratchasima
+3022;หนองบุญมาก;Nong Bunmak;30;นครราชสีมา;Nakhon Ratchasima
+3012;บัวใหญ่;Bua Yai;30;นครราชสีมา;Nakhon Ratchasima
+3032;เฉลิมพระเกียรติ;Chaloem Phra Kiet;30;นครราชสีมา;Nakhon Ratchasima
+3007;โชคชัย;Chok Chai;30;นครราชสีมา;Nakhon Ratchasima
+3031;สีดา;Sida;30;นครราชสีมา;Nakhon Ratchasima
+3005;บ้านเหลื่อม;Ban Lueam;30;นครราชสีมา;Nakhon Ratchasima
+3002;ครบุรี;Khon Buri;30;นครราชสีมา;Nakhon Ratchasima
+3013;ประทาย;Prathai;30;นครราชสีมา;Nakhon Ratchasima
+3029;ลำทะเมนชัย;Lamtaman Chai;30;นครราชสีมา;Nakhon Ratchasima
+3008;ด่านขุนทด;Dan Khun Thot;30;นครราชสีมา;Nakhon Ratchasima
+3011;ขามสะแกแสง;Kham Sakaesaeng;30;นครราชสีมา;Nakhon Ratchasima
+3009;โนนไทย;Non Thai;30;นครราชสีมา;Nakhon Ratchasima
+3020;สีคิ้ว;Si Khio;30;นครราชสีมา;Nakhon Ratchasima
+3019;ขามทะเลสอ;Kham Thale So;30;นครราชสีมา;Nakhon Ratchasima
+3030;บัวลาย;Bua Lai;30;นครราชสีมา;Nakhon Ratchasima
+3024;โนนแดง;Non Daeng;30;นครราชสีมา;Nakhon Ratchasima
+3004;คง;Khong;30;นครราชสีมา;Nakhon Ratchasima
+3006;จักราช;Chakkarat;30;นครราชสีมา;Nakhon Ratchasima
+3017;ชุมพวง;Chum Phuang;30;นครราชสีมา;Nakhon Ratchasima
+3015;พิมาย;Phimai;30;นครราชสีมา;Nakhon Ratchasima
+3028;พระทองคำ;Phra Thong Kham;30;นครราชสีมา;Nakhon Ratchasima
+3023;แก้งสนามนาง;Kaeng Sanam Nang;30;นครราชสีมา;Nakhon Ratchasima
+3027;เมืองยาง;Mueang Yang;30;นครราชสีมา;Nakhon Ratchasima
+3026;เทพารักษ์;Thepharak;30;นครราชสีมา;Nakhon Ratchasima
+3025;วังน้ำเขียว;Wang Nam Khiao;30;นครราชสีมา;Nakhon Ratchasima
+3003;เสิงสาง;Soeng Sang;30;นครราชสีมา;Nakhon Ratchasima
+3021;ปากช่อง;Pak Chong;30;นครราชสีมา;Nakhon Ratchasima
+3101;เมืองบุรีรัมย์;Mueang Buri Ram;31;บุรีรัมย์;Buri Ram
+3110;ลำปลายมาศ;Lam Plai Mat;31;บุรีรัมย์;Buri Ram
+3116;ห้วยราช;Huai Rat;31;บุรีรัมย์;Buri Ram
+3104;นางรอง;Nang Rong;31;บุรีรัมย์;Buri Ram
+3105;หนองกี่;Nong Ki;31;บุรีรัมย์;Buri Ram
+3118;ชำนิ;Chamni;31;บุรีรัมย์;Buri Ram
+3121;บ้านด่าน;Ban Dan;31;บุรีรัมย์;Buri Ram
+3114;หนองหงส์;Nong Hong;31;บุรีรัมย์;Buri Ram
+3119;บ้านใหม่ไชยพจน์;Ban Mai Chaiyaphot;31;บุรีรัมย์;Buri Ram
+3112;ปะคำ;Pakham;31;บุรีรัมย์;Buri Ram
+3107;ประโคนชัย;Prakhon Chai;31;บุรีรัมย์;Buri Ram
+3103;กระสัง;Krasang;31;บุรีรัมย์;Buri Ram
+3120;โนนดินแดง;Non Din Daeng;31;บุรีรัมย์;Buri Ram
+3111;สตึก;Satuek;31;บุรีรัมย์;Buri Ram
+3109;พุทไธสง;Phutthaisong;31;บุรีรัมย์;Buri Ram
+3123;เฉลิมพระเกียรติ;Chaloem Phra Kiet;31;บุรีรัมย์;Buri Ram
+3117;โนนสุวรรณ;Non Din Daeng;31;บุรีรัมย์;Buri Ram
+3113;นาโพธิ์;Na Pho;31;บุรีรัมย์;Buri Ram
+3108;บ้านกรวด;Ban Kruat;31;บุรีรัมย์;Buri Ram
+3106;ละหานทราย;Lahan Sai;31;บุรีรัมย์;Buri Ram
+3115;พลับพลาชัย;Phlapphla Chai;31;บุรีรัมย์;Buri Ram
+3122;แคนดง;Khaen Dong;31;บุรีรัมย์;Buri Ram
+3102;คูเมือง;Khu Mueang;31;บุรีรัมย์;Buri Ram
+3201;เมืองสุรินทร์;Mueang Surin;32;สุรินทร์;Surin
+3212;สำโรงทาบ;Samrong Thap;32;สุรินทร์;Surin
+3204;จอมพระ;Chom Phra;32;สุรินทร์;Surin
+3208;สนม;Sanom;32;สุรินทร์;Surin
+3205;ปราสาท;Prasat;32;สุรินทร์;Surin
+3217;โนนนารายณ์;Non Narai;32;สุรินทร์;Surin
+3207;รัตนบุรี;Rattanaburi;32;สุรินทร์;Surin
+3216;เขวาสินรินทร์;Khwao Sinarin;32;สุรินทร์;Surin
+3209;ศีขรภูมิ;Sikhoraphum;32;สุรินทร์;Surin
+3202;ชุมพลบุรี;Chumphon Buri;32;สุรินทร์;Surin
+3211;ลำดวน;Lamduan;32;สุรินทร์;Surin
+3203;ท่าตูม;Tha Tum;32;สุรินทร์;Surin
+3206;กาบเชิง;Kap Choeng;32;สุรินทร์;Surin
+3213;บัวเชด;Buachet;32;สุรินทร์;Surin
+3215;ศรีณรงค์;Si Narong;32;สุรินทร์;Surin
+3214;พนมดงรัก;Phanom Dong Rak;32;สุรินทร์;Surin
+3210;สังขะ;Sangkha;32;สุรินทร์;Surin
+3305;ขุขันธ์;Khukhan;33;ศรีสะเกษ;Si Sa Ket
+3310;อุทุมพรพิสัย;Uthumphon Phisai;33;ศรีสะเกษ;Si Sa Ket
+3311;บึงบูรพ์;Bueng Bun;33;ศรีสะเกษ;Si Sa Ket
+3301;เมืองศรีสะเกษ;Mueang Si Sa Ket;33;ศรีสะเกษ;Si Sa Ket
+3321;โพธิ์ศรีสุวรรณ;Pho Si Suwan;33;ศรีสะเกษ;Si Sa Ket
+3309;ราษีไศล;Rasi Salai;33;ศรีสะเกษ;Si Sa Ket
+3308;ขุนหาญ;Khun Han;33;ศรีสะเกษ;Si Sa Ket
+3306;ไพรบึง;Phrai Bueng;33;ศรีสะเกษ;Si Sa Ket
+3303;กันทรารมย์;Kanthararom;33;ศรีสะเกษ;Si Sa Ket
+3316;วังหิน;Wang Hin;33;ศรีสะเกษ;Si Sa Ket
+3302;ยางชุมน้อย;Yang Chum Noi;33;ศรีสะเกษ;Si Sa Ket
+3318;เมืองจันทร์;Mueang Chan;33;ศรีสะเกษ;Si Sa Ket
+3320;พยุห์;Phayu;33;ศรีสะเกษ;Si Sa Ket
+3307;ปรางค์กู่;Prang Ku;33;ศรีสะเกษ;Si Sa Ket
+3312;ห้วยทับทัน;Huai Thap Than;33;ศรีสะเกษ;Si Sa Ket
+3304;กันทรลักษ์;Kantharalak;33;ศรีสะเกษ;Si Sa Ket
+3322;ศิลาลาด;Sila Lat;33;ศรีสะเกษ;Si Sa Ket
+3314;ศรีรัตนะ;Si Rattana;33;ศรีสะเกษ;Si Sa Ket
+3315;น้ำเกลี้ยง;Nam Kliang;33;ศรีสะเกษ;Si Sa Ket
+3319;เบญจลักษ์;Benchalak;33;ศรีสะเกษ;Si Sa Ket
+3317;ภูสิงห์;Phu Sing;33;ศรีสะเกษ;Si Sa Ket
+3313;โนนคูณ;Non Khun;33;ศรีสะเกษ;Si Sa Ket
+3401;เมืองอุบลราชธานี;Mueang Ubon Ratchathani;34;อุบลราชธานี;Ubon Ratchathani
+3415;วารินชำราบ;Warin Chamrap;34;อุบลราชธานี;Ubon Ratchathani
+3419;พิบูลมังสาหาร;Phibun Mangsahan;34;อุบลราชธานี;Ubon Ratchathani
+3404;เขื่องใน;Khueang Nai;34;อุบลราชธานี;Ubon Ratchathani
+3422;สำโรง;Samrong;34;อุบลราชธานี;Ubon Ratchathani
+3411;ตระการพืชผล;Trakan Phuet Phon;34;อุบลราชธานี;Ubon Ratchathani
+3402;ศรีเมืองใหม่;Si Mueang Mai;34;อุบลราชธานี;Ubon Ratchathani
+3425;สิรินธร;Sirindhorn;34;อุบลราชธานี;Ubon Ratchathani
+3414;ม่วงสามสิบ;Muang Sam Sip;34;อุบลราชธานี;Ubon Ratchathani
+3431;เหล่าเสือโก้ก;Lao Suea Kok;34;อุบลราชธานี;Ubon Ratchathani
+3421;โพธิ์ไทร;Pho Sai;34;อุบลราชธานี;Ubon Ratchathani
+3407;เดชอุดม;Det Udom;34;อุบลราชธานี;Ubon Ratchathani
+3424;ดอนมดแดง;Don Mot Daeng;34;อุบลราชธานี;Ubon Ratchathani
+3420;ตาลสุม;Tan Sum;34;อุบลราชธานี;Ubon Ratchathani
+3405;เขมราฐ;Khemarat;34;อุบลราชธานี;Ubon Ratchathani
+3426;ทุ่งศรีอุดม;Thung Si Udom;34;อุบลราชธานี;Ubon Ratchathani
+3412;กุดข้าวปุ้น;Kut Khaopun;34;อุบลราชธานี;Ubon Ratchathani
+3430;นาตาล;Na Tan;34;อุบลราชธานี;Ubon Ratchathani
+3403;โขงเจียม;Khong Chiam;34;อุบลราชธานี;Ubon Ratchathani
+3432;สว่างวีระวงศ์;Sawang Wirawong;34;อุบลราชธานี;Ubon Ratchathani
+3408;นาจะหลวย;Na Chaluai;34;อุบลราชธานี;Ubon Ratchathani
+3429;นาเยีย;Na Yia;34;อุบลราชธานี;Ubon Ratchathani
+3409;น้ำยืน;Nam Yuen;34;อุบลราชธานี;Ubon Ratchathani
+3410;บุณฑริก;Boontharik;34;อุบลราชธานี;Ubon Ratchathani
+3433;น้ำขุ่น;Nam Khun;34;อุบลราชธานี;Ubon Ratchathani
+3501;เมืองยโสธร;Mueang Yasothon;35;ยโสธร;Yasothon
+3504;คำเขื่อนแก้ว;Kham Khuean Kaeo;35;ยโสธร;Yasothon
+3506;มหาชนะชัย;Maha Chana Chai;35;ยโสธร;Yasothon
+3502;ทรายมูล;Sai Mun;35;ยโสธร;Yasothon
+3503;กุดชุม;Kut Chum;35;ยโสธร;Yasothon
+3505;ป่าติ้ว;Pa Tio;35;ยโสธร;Yasothon
+3509;ไทยเจริญ;Thai Charoen;35;ยโสธร;Yasothon
+3507;ค้อวัง;Kho Wang;35;ยโสธร;Yasothon
+3508;เลิงนกทา;Loeng Nok Tha;35;ยโสธร;Yasothon
+3613;คอนสาร;Khon San;36;ชัยภูมิ;Chaiyaphum
+3602;บ้านเขว้า;Ban Khwao;36;ชัยภูมิ;Chaiyaphum
+3603;คอนสวรรค์;Khon Sawan;36;ชัยภูมิ;Chaiyaphum
+3601;เมืองชัยภูมิ;Mueang Chaiyaphum;36;ชัยภูมิ;Chaiyaphum
+3608;หนองบัวระเหว;Nong Bua Rawe;36;ชัยภูมิ;Chaiyaphum
+3607;บำเหน็จณรงค์;Bamnet Narong;36;ชัยภูมิ;Chaiyaphum
+3612;แก้งคร้อ;Kaeng Khro;36;ชัยภูมิ;Chaiyaphum
+3604;เกษตรสมบูรณ์;Kaset Sombun;36;ชัยภูมิ;Chaiyaphum
+3611;บ้านแท่น;Ban Thaen;36;ชัยภูมิ;Chaiyaphum
+3616;ซับใหญ่;Sap Yai;36;ชัยภูมิ;Chaiyaphum
+3606;จัตุรัส;Chatturat;36;ชัยภูมิ;Chaiyaphum
+3610;ภูเขียว;Phu Khiao;36;ชัยภูมิ;Chaiyaphum
+3615;เนินสง่า;Noen Sa-nga;36;ชัยภูมิ;Chaiyaphum
+3605;หนองบัวแดง;Nong Bua Daeng;36;ชัยภูมิ;Chaiyaphum
+3614;ภักดีชุมพล;Phakdi Chumphon;36;ชัยภูมิ;Chaiyaphum
+3609;เทพสถิต;Thep Sathit;36;ชัยภูมิ;Chaiyaphum
+3701;เมืองอำนาจเจริญ;Mueang Amnat Charoen;37;อำนาจเจริญ;Amnat Charoen
+3707;ลืออำนาจ;Lue Amnat;37;อำนาจเจริญ;Amnat Charoen
+3706;หัวตะพาน;Hua Taphan;37;อำนาจเจริญ;Amnat Charoen
+3705;เสนางคนิคม;Senangkhanikhom;37;อำนาจเจริญ;Amnat Charoen
+3704;พนา;Phana;37;อำนาจเจริญ;Amnat Charoen
+3703;ปทุมราชวงศา;Pathum Ratchawongsa;37;อำนาจเจริญ;Amnat Charoen
+3702;ชานุมาน;Chanuman;37;อำนาจเจริญ;Amnat Charoen
+3802;พรเจริญ;Phon Charoen;38;บึงกาฬ;Bueng Kan
+3805;ปากคาด;Pak Khat;38;บึงกาฬ;Bueng Kan
+3801;บึงกาฬ;Bueng Kan;38;บึงกาฬ;Bueng Kan
+3806;บึงโขงหลง;Bueng Khong Long;38;บึงกาฬ;Bueng Kan
+3804;เซกา;Seka;38;บึงกาฬ;Bueng Kan
+3803;โซ่พิสัย;So Phisai;38;บึงกาฬ;Bueng Kan
+3807;ศรีวิไล;Si Wilai;38;บึงกาฬ;Bueng Kan
+3808;บุ่งคล้า;Bung Khla;38;บึงกาฬ;Bueng Kan
+3906;นาวัง;Na Wang;39;หนองบัวลำภู;Nong Bua Lam Phu
+3905;สุวรรณคูหา;Suwannakhuha;39;หนองบัวลำภู;Nong Bua Lam Phu
+3904;ศรีบุญเรือง;Si Bun Rueang;39;หนองบัวลำภู;Nong Bua Lam Phu
+3901;เมืองหนองบัวลำภู;Mueang Nong Bua Lam Phu;39;หนองบัวลำภู;Nong Bua Lam Phu
+3903;โนนสัง;Non Sang;39;หนองบัวลำภู;Nong Bua Lam Phu
+3902;นากลาง;Na Klang;39;หนองบัวลำภู;Nong Bua Lam Phu
+4010;บ้านไผ่;Ban Phai;40;ขอนแก่น;Khon Kaen
+4016;ภูเวียง;Phu Wiang;40;ขอนแก่น;Khon Kaen
+4020;ภูผาม่าน;Phu Phaman;40;ขอนแก่น;Khon Kaen
+4012;พล;Phon;40;ขอนแก่น;Khon Kaen
+4005;ชุมแพ;Chum Phae;40;ขอนแก่น;Khon Kaen
+4011;เปือยน้อย;Pueai Noi;40;ขอนแก่น;Khon Kaen
+4018;ชนบท;Chonnabot;40;ขอนแก่น;Khon Kaen
+4025;โนนศิลา;Non Sila;40;ขอนแก่น;Khon Kaen
+4021;ซำสูง;Sam Sung;40;ขอนแก่น;Khon Kaen
+4003;พระยืน;Phra Yuen;40;ขอนแก่น;Khon Kaen
+4009;กระนวน;Kranuan;40;ขอนแก่น;Khon Kaen
+4007;น้ำพอง;Nam Phong;40;ขอนแก่น;Khon Kaen
+4013;แวงใหญ่;Waeng Yai;40;ขอนแก่น;Khon Kaen
+4015;หนองสองห้อง;Nong Song Hong;40;ขอนแก่น;Khon Kaen
+4008;อุบลรัตน์;Ubolratana;40;ขอนแก่น;Khon Kaen
+4019;เขาสวนกวาง;Khao Suan Kwang;40;ขอนแก่น;Khon Kaen
+4006;สีชมพู;Si Chomphu;40;ขอนแก่น;Khon Kaen
+4004;หนองเรือ;Nong Ruea;40;ขอนแก่น;Khon Kaen
+4001;เมืองขอนแก่น;Mueang Khon Kaen;40;ขอนแก่น;Khon Kaen
+4014;แวงน้อย;Waeng Noi;40;ขอนแก่น;Khon Kaen
+4002;บ้านฝาง;Ban Fang;40;ขอนแก่น;Khon Kaen
+4023;หนองนาคำ;Nong Na Kham;40;ขอนแก่น;Khon Kaen
+4026;เวียงเก่า;Wiang Kao;40;ขอนแก่น;Khon Kaen
+4024;บ้านแฮด;Ban Haet;40;ขอนแก่น;Khon Kaen
+4022;โคกโพธิ์ไชย;Khok Pho Chai;40;ขอนแก่น;Khon Kaen
+4017;มัญจาคีรี;Mancha Khiri;40;ขอนแก่น;Khon Kaen
+4101;เมืองอุดรธานี;Mueang Udon Thani;41;อุดรธานี;Udon Thani
+4104;กุมภวาปี;Kumphawapi;41;อุดรธานี;Udon Thani
+4124;กู่แก้ว;Ku Kaeo;41;อุดรธานี;Udon Thani
+4111;บ้านดุง;Ban Dung;41;อุดรธานี;Udon Thani
+4106;หนองหาน;Nong Saeng;41;อุดรธานี;Udon Thani
+4107;ทุ่งฝน;Thung Fon;41;อุดรธานี;Udon Thani
+4120;สร้างคอม;Sang Khom;41;อุดรธานี;Udon Thani
+4117;บ้านผือ;Ban Phue;41;อุดรธานี;Udon Thani
+4109;ศรีธาตุ;Si That;41;อุดรธานี;Udon Thani
+4118;น้ำโสม;Nam Som;41;อุดรธานี;Udon Thani
+4103;หนองวัวซอ;Nong Wua So;41;อุดรธานี;Udon Thani
+4125;ประจักษ์ศิลปาคม;Prachaksinlapakhom;41;อุดรธานี;Udon Thani
+4105;โนนสะอาด;Non Sa-at;41;อุดรธานี;Udon Thani
+4119;เพ็ญ;Phen;41;อุดรธานี;Udon Thani
+4121;หนองแสง;Nong Saeng;41;อุดรธานี;Udon Thani
+4102;กุดจับ;Kut Chap;41;อุดรธานี;Udon Thani
+4110;วังสามหมอ;Wang Sam Mo;41;อุดรธานี;Udon Thani
+4123;พิบูลย์รักษ์;Phibun Rak;41;อุดรธานี;Udon Thani
+4108;ไชยวาน;Chai Wan;41;อุดรธานี;Udon Thani
+4122;นายูง;Na Yung;41;อุดรธานี;Udon Thani
+4201;เมืองเลย;Mueang Loei;42;เลย;Loei
+4205;ด่านซ้าย;Dan Sai;42;เลย;Loei
+4203;เชียงคาน;Chiang Khan;42;เลย;Loei
+4209;วังสะพุง;Wang Saphung;42;เลย;Loei
+4211;ภูหลวง;Phu Luang;42;เลย;Loei
+4202;นาด้วง;Na Duang;42;เลย;Loei
+4212;ผาขาว;Pha  Khao;42;เลย;Loei
+4214;หนองหิน;Nong Hin;42;เลย;Loei
+4208;ท่าลี่;Tha Li;42;เลย;Loei
+4210;ภูกระดึง;Phu Kradueng;42;เลย;Loei
+4213;เอราวัณ;Erawan;42;เลย;Loei
+4207;ภูเรือ;Phu Ruea;42;เลย;Loei
+4204;ปากชม;Pak Chom;42;เลย;Loei
+4206;นาแห้ว;Na Haeo;42;เลย;Loei
+4301;เมืองหนองคาย;Mueang Nong Khai;43;หนองคาย;Nong Khai
+4302;ท่าบ่อ;Tha Bo;43;หนองคาย;Nong Khai
+4307;ศรีเชียงใหม่;Si Chiang Mai;43;หนองคาย;Nong Khai
+4317;โพธิ์ตาก;Pho Tak;43;หนองคาย;Nong Khai
+4316;รัตนวาปี;Rattanawapi;43;หนองคาย;Nong Khai
+4314;สระใคร;Sakhrai;43;หนองคาย;Nong Khai
+4315;เฝ้าไร่;Fao Rai;43;หนองคาย;Nong Khai
+4305;โพนพิสัย;Phon Phisai;43;หนองคาย;Nong Khai
+4308;สังคม;Sangkhom;43;หนองคาย;Nong Khai
+4401;เมืองมหาสารคาม;Mueang Maha Sarakham;44;มหาสารคาม;Maha Sarakham
+4410;นาดูน;Na Dun;44;มหาสารคาม;Maha Sarakham
+4408;พยัคฆภูมิพิสัย;Phayakkhaphum Phisai;44;มหาสารคาม;Maha Sarakham
+4404;กันทรวิชัย;Kantharawichai;44;มหาสารคาม;Maha Sarakham
+4403;โกสุมพิสัย;Kosum Phisai;44;มหาสารคาม;Maha Sarakham
+4405;เชียงยืน;Chiang Yuen;44;มหาสารคาม;Maha Sarakham
+4411;ยางสีสุราช;Yang Sisurat;44;มหาสารคาม;Maha Sarakham
+4406;บรบือ;Borabue;44;มหาสารคาม;Maha Sarakham
+4409;วาปีปทุม;Wapi Pathum;44;มหาสารคาม;Maha Sarakham
+4407;นาเชือก;Na Chueak;44;มหาสารคาม;Maha Sarakham
+4402;แกดำ;Kae Dam;44;มหาสารคาม;Maha Sarakham
+4413;ชื่นชม;Chuen Chom;44;มหาสารคาม;Maha Sarakham
+4412;กุดรัง;Kut Rang;44;มหาสารคาม;Maha Sarakham
+4506;พนมไพร;Phanom Phrai;45;ร้อยเอ็ด;Roi Et
+4501;เมืองร้อยเอ็ด;Mueang Roi Et;45;ร้อยเอ็ด;Roi Et
+4516;ศรีสมเด็จ;Si Somdet;45;ร้อยเอ็ด;Roi Et
+4517;จังหาร;Changhan;45;ร้อยเอ็ด;Roi Et
+4510;เสลภูมิ;Selaphum;45;ร้อยเอ็ด;Roi Et
+4511;สุวรรณภูมิ;Suwannaphum;45;ร้อยเอ็ด;Roi Et
+4518;เชียงขวัญ;Chiang Khwan;45;ร้อยเอ็ด;Roi Et
+4505;ธวัชบุรี;Thawat Buri;45;ร้อยเอ็ด;Roi Et
+4520;ทุ่งเขาหลวง;Thung Khao Luang;45;ร้อยเอ็ด;Roi Et
+4514;อาจสามารถ;At Samat;45;ร้อยเอ็ด;Roi Et
+4504;จตุรพักตรพิมาน;Chaturaphak Phiman;45;ร้อยเอ็ด;Roi Et
+4508;โพธิ์ชัย;Pho Chai;45;ร้อยเอ็ด;Roi Et
+4515;เมยวดี;Moei Wadi;45;ร้อยเอ็ด;Roi Et
+4507;โพนทอง;Phon Thong;45;ร้อยเอ็ด;Roi Et
+4519;หนองฮี;Nong Hi;45;ร้อยเอ็ด;Roi Et
+4512;เมืองสรวง;Mueang Suang;45;ร้อยเอ็ด;Roi Et
+4503;ปทุมรัตต์;Pathum Rat;45;ร้อยเอ็ด;Roi Et
+4513;โพนทราย;Phon Sai;45;ร้อยเอ็ด;Roi Et
+4502;เกษตรวิสัย;Kaset Wisai;45;ร้อยเอ็ด;Roi Et
+4509;หนองพอก;Nong Phok;45;ร้อยเอ็ด;Roi Et
+4604;ร่องคำ;Rong Kham;46;กาฬสินธุ์;Kalasin
+4606;เขาวง;Khao Wong;46;กาฬสินธุ์;Kalasin
+4609;สหัสขันธ์;Sahatsakhan;46;กาฬสินธุ์;Kalasin
+4605;กุฉินารายณ์;Kuchinarai;46;กาฬสินธุ์;Kalasin
+4608;ห้วยเม็ก;Huai Mek;46;กาฬสินธุ์;Kalasin
+4612;หนองกุงศรี;Nong Kung Si;46;กาฬสินธุ์;Kalasin
+4618;ฆ้องชัย;Khong Chai;46;กาฬสินธุ์;Kalasin
+4607;ยางตลาด;Yang Talat;46;กาฬสินธุ์;Kalasin
+4601;เมืองกาฬสินธุ์;Mueang Kalasin;46;กาฬสินธุ์;Kalasin
+4616;นาคู;Na Khu;46;กาฬสินธุ์;Kalasin
+4613;สมเด็จ;Somdet;46;กาฬสินธุ์;Kalasin
+4603;กมลาไสย;Kamalasai;46;กาฬสินธุ์;Kalasin
+4610;คำม่วง;Kham Muang;46;กาฬสินธุ์;Kalasin
+4617;ดอนจาน;Don Chan;46;กาฬสินธุ์;Kalasin
+4602;นามน;Na Mon;46;กาฬสินธุ์;Kalasin
+4614;ห้วยผึ้ง;Huai Phueng;46;กาฬสินธุ์;Kalasin
+4611;ท่าคันโท;Tha Khantho;46;กาฬสินธุ์;Kalasin
+4615;สามชัย;Sam Chai;46;กาฬสินธุ์;Kalasin
+4701;เมืองสกลนคร;Mueang Sakon Nakhon;47;สกลนคร;Sakon Nakhon
+4707;นิคมน้ำอูน;Nikhom Nam un;47;สกลนคร;Sakon Nakhon
+4708;วานรนิวาส;Wanon Niwat;47;สกลนคร;Sakon Nakhon
+4706;วาริชภูมิ;Waritchaphum;47;สกลนคร;Sakon Nakhon
+4712;สว่างแดนดิน;Sawang Daen Din;47;สกลนคร;Sakon Nakhon
+4715;โคกศรีสุพรรณ;Khok Si Suphan;47;สกลนคร;Sakon Nakhon
+4704;พรรณานิคม;Phanna Nikhom;47;สกลนคร;Sakon Nakhon
+4714;เต่างอย;Tao Ngoi;47;สกลนคร;Sakon Nakhon
+4717;โพนนาแก้ว;Phon Na Kaeo;47;สกลนคร;Sakon Nakhon
+4705;พังโคน;Phanh khon;47;สกลนคร;Sakon Nakhon
+4711;อากาศอำนวย;Akat Amnuai;47;สกลนคร;Sakon Nakhon
+4713;ส่องดาว;Song Dao;47;สกลนคร;Sakon Nakhon
+4716;เจริญศิลป์;Charoen Sin;47;สกลนคร;Sakon Nakhon
+4710;บ้านม่วง;Ban Muang;47;สกลนคร;Sakon Nakhon
+4709;คำตากล้า;Kham Ta Kla;47;สกลนคร;Sakon Nakhon
+4702;กุสุมาลย์;Kusuman;47;สกลนคร;Sakon Nakhon
+4718;ภูพาน;Phu Phan;47;สกลนคร;Sakon Nakhon
+4703;กุดบาก;Kut Bak;47;สกลนคร;Sakon Nakhon
+4805;ธาตุพนม;That Phanom;48;นครพนม;Nakhon Phanom
+4801;เมืองนครพนม;Mueang Nakhon Phanom;48;นครพนม;Nakhon Phanom
+4812;วังยาง;Wang Yang;48;นครพนม;Nakhon Phanom
+4806;เรณูนคร;Renu Nakhon;48;นครพนม;Nakhon Phanom
+4809;นาหว้า;Na Wa;48;นครพนม;Nakhon Phanom
+4803;ท่าอุเทน;Tha Uthen;48;นครพนม;Nakhon Phanom
+4807;นาแก;Na Kae;48;นครพนม;Nakhon Phanom
+4802;ปลาปาก;Pla Pak;48;นครพนม;Nakhon Phanom
+4804;บ้านแพง;Ban Phaeng;48;นครพนม;Nakhon Phanom
+4808;ศรีสงคราม;Si Songkhram;48;นครพนม;Nakhon Phanom
+4810;โพนสวรรค์;Phon Sawan;48;นครพนม;Nakhon Phanom
+4811;นาทม;Na Thom;48;นครพนม;Nakhon Phanom
+4901;เมืองมุกดาหาร;Mueang Mukdahan;49;มุกดาหาร;Mukdahan
+4906;ว่านใหญ่;Wan Yai;49;มุกดาหาร;Mukdahan
+4907;หนองสูง;Nong Sung;49;มุกดาหาร;Mukdahan
+4905;คำชะอี;Khamcha-i;49;มุกดาหาร;Mukdahan
+4903;ดอนตาล;Don Tan;49;มุกดาหาร;Mukdahan
+4902;นิคมคำสร้อย;Nikhom Kham Soi;49;มุกดาหาร;Mukdahan
+4904;ดงหลวง;Don Tan;49;มุกดาหาร;Mukdahan
+5001;เมืองเชียงใหม่;Mueang Chiang Mai;50;เชียงใหม่;Chiang Mai
+5013;สันกำแพง;San Kamphaeng;50;เชียงใหม่;Chiang Mai
+5015;หางดง;Hang Dong;50;เชียงใหม่;Chiang Mai
+5011;พร้าว;Phrao;50;เชียงใหม่;Chiang Mai
+5005;ดอยสะเก็ด;Doi Saket;50;เชียงใหม่;Chiang Mai
+5022;แม่วาง;Mae Wang;50;เชียงใหม่;Chiang Mai
+5019;สารภี;Saraphi;50;เชียงใหม่;Chiang Mai
+5014;สันทราย;San Sai;50;เชียงใหม่;Chiang Mai
+5007;แม่ริม;Mae Rim;50;เชียงใหม่;Chiang Mai
+5024;ดอยหล่อ;Doi Lo;50;เชียงใหม่;Chiang Mai
+5006;แม่แตง;Mae Taeng;50;เชียงใหม่;Chiang Mai
+5012;สันป่าตอง;San Pa Tong;50;เชียงใหม่;Chiang Mai
+5021;ไชยปราการ;Chai Prakan;50;เชียงใหม่;Chiang Mai
+5023;แม่ออน;Mae On;50;เชียงใหม่;Chiang Mai
+5017;ดอยเต่า;Doi Tao;50;เชียงใหม่;Chiang Mai
+5010;แม่อาย;Mae Ai;50;เชียงใหม่;Chiang Mai
+5009;ฝาง;Fang;50;เชียงใหม่;Chiang Mai
+5020;เวียงแหง;Wiang Haeng;50;เชียงใหม่;Chiang Mai
+5002;จอมทอง;Chom Thong;50;เชียงใหม่;Chiang Mai
+5016;ฮอด;Hot;50;เชียงใหม่;Chiang Mai
+5003;แม่แจ่ม;Mae Chaem;50;เชียงใหม่;Chiang Mai
+5008;สะเมิง;Samoeng;50;เชียงใหม่;Chiang Mai
+5004;เชียงดาว;Chiang Dao;50;เชียงใหม่;Chiang Mai
+5025;กัลยาณิวัฒนา;Kanlayaniwatthana;50;เชียงใหม่;Chiang Mai
+5018;อมก๋อย;Omkoi;50;เชียงใหม่;Chiang Mai
+5106;ป่าซาง;Pa Sang;51;ลำพูน;Lamphun
+5101;เมืองลำพูน;Mueang Lamphun;51;ลำพูน;Lamphun
+5108;เวียงหนองล่อง;Wiang Nong Long;51;ลำพูน;Lamphun
+5102;แม่ทา;Mae Tha;51;ลำพูน;Lamphun
+5103;บ้านโฮ่ง;Ban Hong;51;ลำพูน;Lamphun
+5107;บ้านธิ;Ban Thi;51;ลำพูน;Lamphun
+5104;ลี้;Li;51;ลำพูน;Lamphun
+5105;ทุ่งหัวช้าง;Thung Hua Chang;51;ลำพูน;Lamphun
+5205;งาว;Ngao;52;ลำปาง;Lampang
+5201;เมืองลำปาง;Mueang Lampang;52;ลำปาง;Lampang
+5203;เกาะคา;Ko kha;52;ลำปาง;Lampang
+5210;แม่ทะ;Mae Tha;52;ลำปาง;Lampang
+5212;ห้างฉัตร;Hang Chat;52;ลำปาง;Lampang
+5207;วังเหนือ;Wang Nuea;52;ลำปาง;Lampang
+5208;เถิน;Thoen;52;ลำปาง;Lampang
+5206;แจ้ห่ม;Chae Hom;52;ลำปาง;Lampang
+5209;แม่พริก;Mae Phrik;52;ลำปาง;Lampang
+5204;เสริมงาม;Soem Ngam;52;ลำปาง;Lampang
+5211;สบปราบ;Sop Prap;52;ลำปาง;Lampang
+5202;แม่เมาะ;Mae Mo;52;ลำปาง;Lampang
+5213;เมืองปาน;Mueang Pan;52;ลำปาง;Lampang
+5308;ลับแล;Laplae;53;อุตรดิตถ์;Uttaradit
+5301;เมืองอุตรดิตถ์;Mueang Uttaradit;53;อุตรดิตถ์;Uttaradit
+5303;ท่าปลา;Tha Pla;53;อุตรดิตถ์;Uttaradit
+5302;ตรอน;Tron;53;อุตรดิตถ์;Uttaradit
+5307;พิชัย;Phichai;53;อุตรดิตถ์;Uttaradit
+5305;ฟากท่า;Fak Tha;53;อุตรดิตถ์;Uttaradit
+5309;ทองแสนขัน;Thong Saen Khan;53;อุตรดิตถ์;Uttaradit
+5306;บ้านโคก;Ban Khok;53;อุตรดิตถ์;Uttaradit
+5304;น้ำปาด;Nam Pat;53;อุตรดิตถ์;Uttaradit
+5401;เมืองแพร่;Mueang Phrae;54;แพร่;Phrae
+5404;สูงเม่น;Sung Men;54;แพร่;Phrae
+5408;หนองม่วงไข่;Nong Muang Khai;54;แพร่;Phrae
+5406;สอง;Song;54;แพร่;Phrae
+5402;ร้องกวาง;Mueang Phrae;54;แพร่;Phrae
+5403;ลอง;Long;54;แพร่;Phrae
+5405;เด่นชัย;Den Chai;54;แพร่;Phrae
+5407;วังชิ้น;Wang Chin;54;แพร่;Phrae
+5501;เมืองน่าน;Mueang Nan;55;น่าน;Nan
+5506;ท่าวังผา;Tha Wang Pha;55;น่าน;Nan
+5514;ภูเพียง;Phu Phiang;55;น่าน;Nan
+5505;ปัว;Pua;55;น่าน;Nan
+5509;เชียงกลาง;Chiang Klang;55;น่าน;Nan
+5507;เวียงสา;Wiang Sa;55;น่าน;Nan
+5503;บ้านหลวง;Ban Luang;55;น่าน;Nan
+5511;สันติสุข;Santi Suk;55;น่าน;Nan
+5504;นาน้อย;Na Noi;55;น่าน;Nan
+5502;แม่จริม;Mae Charim;55;น่าน;Nan
+5510;นาหมื่น;Na Muen;55;น่าน;Nan
+5508;ทุ่งช้าง;Thung Chang;55;น่าน;Nan
+5512;บ่อเกลือ;Bo Kluea;55;น่าน;Nan
+5513;สองแคว;Song Khwae;55;น่าน;Nan
+5515;เฉลิมพระเกียรติ;Chaloem Phra Kiet;55;น่าน;Nan
+5601;เมืองพะเยา;Mueang Phayao;56;พะเยา;Phayao
+5603;เชียงคำ;Mueang Phayao;56;พะเยา;Phayao
+5607;แม่ใจ;Mueang Phayao;56;พะเยา;Phayao
+5609;ภูกามยาว;Mueang Phayao;56;พะเยา;Phayao
+5605;ดอกคำใต้;Mueang Phayao;56;พะเยา;Phayao
+5608;ภูซาง;Mueang Phayao;56;พะเยา;Phayao
+5602;จุน;Mueang Phayao;56;พะเยา;Phayao
+5606;ปง;Mueang Phayao;56;พะเยา;Phayao
+5604;เชียงม่วน;Mueang Phayao;56;พะเยา;Phayao
+5701;เมืองเชียงราย;Mueang Chiang Rai;57;เชียงราย;Chiang Rai
+5707;แม่จัน;Mae Chan;57;เชียงราย;Chiang Rai
+5705;พาน;Phan;57;เชียงราย;Chiang Rai
+5709;แม่สาย;Mae Sai;57;เชียงราย;Chiang Rai
+5716;แม่ลาว;Mae Lao;57;เชียงราย;Chiang Rai
+5704;เทิง;Thoeng;57;เชียงราย;Chiang Rai
+5706;ป่าแดด;Pa Daet;57;เชียงราย;Chiang Rai
+5711;เวียงป่าเป้า;Wiang Pa Pao;57;เชียงราย;Chiang Rai
+5702;เวียงชัย;Wiang Chai;57;เชียงราย;Chiang Rai
+5712;พญาเม็งราย;Phaya Mengrai;57;เชียงราย;Chiang Rai
+5708;เชียงแสน;Chiang Saen;57;เชียงราย;Chiang Rai
+5703;เชียงของ;Chiang Khong;57;เชียงราย;Chiang Rai
+5714;ขุนตาล;Khun Tan;57;เชียงราย;Chiang Rai
+5710;แม่สรวย;Mae Suai;57;เชียงราย;Chiang Rai
+5713;เวียงแก่น;Wiang Kaen;57;เชียงราย;Chiang Rai
+5718;ดอยหลวง;Doi Luang;57;เชียงราย;Chiang Rai
+5717;เวียงเชียงรุ้ง;Wiang Chiang Rung;57;เชียงราย;Chiang Rai
+5715;แม่ฟ้าหลวง;Mae Fa Luang;57;เชียงราย;Chiang Rai
+5801;เมืองแม่ฮ่องสอน;Mueang Mae Hong Son;58;แม่ฮ่องสอน;Mae Hong Son
+5803;ปาย;Pai;58;แม่ฮ่องสอน;Mae Hong Son
+5804;แม่สะเรียง;Mae Sariang;58;แม่ฮ่องสอน;Mae Hong Son
+5806;สบเมย;Sop Moei;58;แม่ฮ่องสอน;Mae Hong Son
+5805;แม่ลาน้อย;Mae La Noi;58;แม่ฮ่องสอน;Mae Hong Son
+5802;ขุนยวม;Khun Yuam;58;แม่ฮ่องสอน;Mae Hong Son
+5807;ปางมะผ้า;Pang Mapha;58;แม่ฮ่องสอน;Mae Hong Son
+6003;ชุมแสง;Chum Saeng;60;นครสวรรค์;Nakhon Sawan
+6001;เมืองนครสวรรค์;Mueang Nakhon Sawan;60;นครสวรรค์;Nakhon Sawan
+6006;เก้าเลี้ยว;Kao Liao;60;นครสวรรค์;Nakhon Sawan
+6002;โกรกพระ;Krok Phra;60;นครสวรรค์;Nakhon Sawan
+6007;ตาคลี;Takhli;60;นครสวรรค์;Nakhon Sawan
+6010;พยุหะคีรี;Phayuha Hkiri;60;นครสวรรค์;Nakhon Sawan
+6004;หนองบัว;Nong Bua;60;นครสวรรค์;Nakhon Sawan
+6011;ลาดยาว;Lat Yao;60;นครสวรรค์;Nakhon Sawan
+6005;บรรพตพิสัย;Banphot Phisai;60;นครสวรรค์;Nakhon Sawan
+6012;ตากฟ้า;Tak Fa;60;นครสวรรค์;Nakhon Sawan
+6008;ท่าตะโก;Tha Tako;60;นครสวรรค์;Nakhon Sawan
+6015;ชุมตาบง;Chum Ta Bong;60;นครสวรรค์;Nakhon Sawan
+6009;ไพศาลี;Phaisali;60;นครสวรรค์;Nakhon Sawan
+6013;แม่วงก์;Mae Wong;60;นครสวรรค์;Nakhon Sawan
+6014;แม่เปิน;Mae Pern;60;นครสวรรค์;Nakhon Sawan
+6105;หนองขาหย่าง;Nong Khayang;61;อุทัยธานี;Uthai Thani
+6101;เมืองอุทัยธานี;Mueang Uthai Thani;61;อุทัยธานี;Uthai Thani
+6104;หนองฉาง;Nong Chang;61;อุทัยธานี;Uthai Thani
+6102;ทัพทัน;Thap Than;61;อุทัยธานี;Uthai Thani
+6106;บ้านไร่;Ban Rai;61;อุทัยธานี;Uthai Thani
+6103;สว่างอารมณ์;Sawang Arom;61;อุทัยธานี;Uthai Thani
+6107;ลานสัก;Lan Sak;61;อุทัยธานี;Uthai Thani
+6108;ห้วยคต;Huai Khot;61;อุทัยธานี;Uthai Thani
+6201;เมืองกำแพงเพชร;Mueang Kamphaeng Phet;62;กำแพงเพชร;Kamphaeng Phet
+6206;พรานกระต่าย;Phran Kratai;62;กำแพงเพชร;Kamphaeng Phet
+6205;คลองขลุง;Khlong Khlung;62;กำแพงเพชร;Kamphaeng Phet
+6210;บึงสามัคคี;Bueng Samakkhi;62;กำแพงเพชร;Kamphaeng Phet
+6207;ลานกระบือ;Lan Krabue;62;กำแพงเพชร;Kamphaeng Phet
+6211;โกสัมพีนคร;Kosamphi Nakhon;62;กำแพงเพชร;Kamphaeng Phet
+6204;ขาณุวรลักษบุรี;Khanu Woralaksaburi;62;กำแพงเพชร;Kamphaeng Phet
+6208;ทรายทองวัฒนา;Sai Thong Watthana;62;กำแพงเพชร;Kamphaeng Phet
+6202;ไทรงาม;Sai Ngam;62;กำแพงเพชร;Kamphaeng Phet
+6209;ปางศิลาทอง;Pang Sila Thong;62;กำแพงเพชร;Kamphaeng Phet
+6203;คลองลาน;Khlong Lan;62;กำแพงเพชร;Kamphaeng Phet
+6301;เมืองตาก;Mueang Tak;63;ตาก;Tak
+6306;แม่สอด;Mae Sot;63;ตาก;Tak
+6303;สามเงา;Sam Ngao;63;ตาก;Tak
+6302;บ้านตาก;Ban Tak;63;ตาก;Tak
+6309;วังเจ้า;Wang Chao;63;ตาก;Tak
+6308;อุ้มผาง;Um Phang;63;ตาก;Tak
+6304;แม่ระมาด;Mae Ramat;63;ตาก;Tak
+6307;พบพระ;Phop Phra;63;ตาก;Tak
+6305;ท่าสองยาง;Tha Song Yang;63;ตาก;Tak
+6401;เมืองสุโขทัย;Mueang Sukhothai;64;สุโขทัย;Sukhothai
+6407;สวรรคโลก;Sawankhalok;64;สุโขทัย;Sukhothai
+6406;ศรีสำโรง;Si Samrong;64;สุโขทัย;Sukhothai
+6404;กงไกรลาศ;Kong Krailat;64;สุโขทัย;Sukhothai
+6408;ศรีนคร;Si Nakhon;64;สุโขทัย;Sukhothai
+6405;ศรีสัชนาลัย;Si Satchanalai;64;สุโขทัย;Sukhothai
+6403;คีรีมาศ;Khiri Mat;64;สุโขทัย;Sukhothai
+6409;ทุ่งเสลี่ยม;Thung Saliam;64;สุโขทัย;Sukhothai
+6402;บ้านด่านลานหอย;Ban Dan Lan Hoi;64;สุโขทัย;Sukhothai
+6501;เมืองพิษณุโลก;Mueang Phitsanulok;65;พิษณุโลก;Phitsanulok
+6505;บางกระทุ่ม;Bang Krathum;65;พิษณุโลก;Phitsanulok
+6506;พรหมพิราม;Phrom Phiram;65;พิษณุโลก;Phitsanulok
+6507;วัดโบสถ์;Wat Bot;65;พิษณุโลก;Phitsanulok
+6502;นครไทย;Nakhon Thai;65;พิษณุโลก;Phitsanulok
+6504;บางระกำ;Bang Rakam;65;พิษณุโลก;Phitsanulok
+6508;วังทอง;Wang Thong;65;พิษณุโลก;Phitsanulok
+6509;เนินมะปราง;Noen Maprang;65;พิษณุโลก;Phitsanulok
+6503;ชาติตระการ;Chat Trakan;65;พิษณุโลก;Phitsanulok
+6604;ตะพานหิน;Taphan Hin;66;พิจิตร;Phichit
+6605;บางมูลนาก;Bang Mun Nak;66;พิจิตร;Phichit
+6601;เมืองพิจิตร;Mueang Phichit;66;พิจิตร;Phichit
+6609;สากเหล็ก;Sak Lek;66;พิจิตร;Phichit
+6606;โพทะเล;Pho Thale;66;พิจิตร;Phichit
+6611;ดงเจริญ;Dong Charoen;66;พิจิตร;Phichit
+6612;วชิรบารมี;Wachirabarami;66;พิจิตร;Phichit
+6603;โพธิ์ประทับช้าง;Pho Prathap Chang;66;พิจิตร;Phichit
+6610;บึงนาราง;Bueng Na Rang;66;พิจิตร;Phichit
+6607;สามง่าม;Sam Ngam;66;พิจิตร;Phichit
+6602;วังทรายพูน;Wang Sai Phun;66;พิจิตร;Phichit
+6608;ทับคล้อ;Tap Khlo;66;พิจิตร;Phichit
+6703;หล่มสัก;Lom Sak;67;เพชรบูรณ์;Phetchabun
+6701;เมืองเพชรบูรณ์;Mueang Phetchabun;67;เพชรบูรณ์;Phetchabun
+6704;หล่มเก่า;Lom Kao;67;เพชรบูรณ์;Phetchabun
+6708;บึงสามพัน;Bueng Sam Phan;67;เพชรบูรณ์;Phetchabun
+6711;เขาค้อ;Khao kho;67;เพชรบูรณ์;Phetchabun
+6706;ศรีเทพ;Si Thep;67;เพชรบูรณ์;Phetchabun
+6710;วังโป่ง;Wang Pong;67;เพชรบูรณ์;Phetchabun
+6707;หนองไผ่;Nong Phai;67;เพชรบูรณ์;Phetchabun
+6705;วิเชียรบุรี;Wichian Buri;67;เพชรบูรณ์;Phetchabun
+6702;ชนแดน;Chon Daen;67;เพชรบูรณ์;Phetchabun
+6709;น้ำหนาว;Nam Nao;67;เพชรบูรณ์;Phetchabun
+7005;บ้านโป่ง;Ban Pong;70;ราชบุรี;Ratchaburi
+7007;โพธาราม;Photharam;70;ราชบุรี;Ratchaburi
+7004;ดำเนินสะดวก;Damnoen Saduak;70;ราชบุรี;Ratchaburi
+7008;ปากท่อ;Pak Tho;70;ราชบุรี;Ratchaburi
+7001;เมืองราชบุรี;Mueang Ratchaburi;70;ราชบุรี;Ratchaburi
+7009;วัดเพลง;Wat Phleng;70;ราชบุรี;Ratchaburi
+7006;บางแพ;Bang Phae;70;ราชบุรี;Ratchaburi
+7002;จอมบึง;Chom Bueng;70;ราชบุรี;Ratchaburi
+7003;สวนผึ้ง;Suan Phueng;70;ราชบุรี;Ratchaburi
+7010;บ้านคา;Ban Kha;70;ราชบุรี;Ratchaburi
+7105;ท่ามะกา;Tha Maka;71;กาญจนบุรี;Kanchanaburi
+7106;ท่าม่วง;Tha Muang;71;กาญจนบุรี;Kanchanaburi
+7109;พนมทวน;Phanom Thuan;71;กาญจนบุรี;Kanchanaburi
+7101;เมืองกาญจนบุรี;Mueang Kanchanaburi;71;กาญจนบุรี;Kanchanaburi
+7111;ด่านมะขามเตี้ย;Dan Makham Tia;71;กาญจนบุรี;Kanchanaburi
+7110;เลาขวัญ;Lao Khwan;71;กาญจนบุรี;Kanchanaburi
+7113;ห้วยกระเจา;Huai Krachao;71;กาญจนบุรี;Kanchanaburi
+7112;หนองปรือ;Nong Prue;71;กาญจนบุรี;Kanchanaburi
+7102;ไทรโยค;Sai Yok;71;กาญจนบุรี;Kanchanaburi
+7107;ทองผาภูมิ;Thong Pha Phum;71;กาญจนบุรี;Kanchanaburi
+7104;ศรีสวัสดิ์;Si Sawat;71;กาญจนบุรี;Kanchanaburi
+7103;บ่อพลอย;Bo Phloi;71;กาญจนบุรี;Kanchanaburi
+7108;สังขละบุรี;Sangkhla Buri;71;กาญจนบุรี;Kanchanaburi
+7202;เดิมบางนางบวช;Doem Bang Nang Buat;72;สุพรรณบุรี;Suphan Buri
+7201;เมืองสุพรรณบุรี;Mueang Saphan Buri;72;สุพรรณบุรี;Suphan Buri
+7204;บางปลาม้า;Bang Pla Ma;72;สุพรรณบุรี;Suphan Buri
+7207;สองพี่น้อง;Song Phi Nong;72;สุพรรณบุรี;Suphan Buri
+7209;อู่ทอง;U Thong;72;สุพรรณบุรี;Suphan Buri
+7205;ศรีประจันต์;Si Prachan;72;สุพรรณบุรี;Suphan Buri
+7208;สามชุก;Sam Chuk;72;สุพรรณบุรี;Suphan Buri
+7206;ดอนเจดีย์;Don Chedi;72;สุพรรณบุรี;Suphan Buri
+7210;หนองหญ้าไซ;Nong Ya Sai;72;สุพรรณบุรี;Suphan Buri
+7203;ด่านช้าง;Dan Chang;72;สุพรรณบุรี;Suphan Buri
+7303;นครชัยศรี;Nakhon Chai Si;73;นครปฐม;Nakhon Pathom
+7301;เมืองนครปฐม;mueang Nakhon Pathom;73;นครปฐม;Nakhon Pathom
+7306;สามพราน;Sam Phran;73;นครปฐม;Nakhon Pathom
+7302;กำแพงแสน;Kamphaeng Saen;73;นครปฐม;Nakhon Pathom
+7304;ดอนตูม;Don Tum;73;นครปฐม;Nakhon Pathom
+7307;พุทธมณฑล;Phutthamonthon;73;นครปฐม;Nakhon Pathom
+7305;บางเลน;Bang Len;73;นครปฐม;Nakhon Pathom
+7401;เมืองสมุทรสาคร;Mueang Samut Sakhon;74;สมุทรสาคร;Samut Sakhon
+7402;กระทุ่มแบน;Krathum Baen;74;สมุทรสาคร;Samut Sakhon
+7403;บ้านแพ้ว;Ban Phaeo;74;สมุทรสาคร;Samut Sakhon
+7502;บางคนที;Bang Khonthi;75;สมุทรสงคราม;Samut Songkhram
+7503;อัมพวา;Amphawa;75;สมุทรสงคราม;Samut Songkhram
+7501;เมืองสมุทรสงคราม;Mueang Samut Songkhram;75;สมุทรสงคราม;Samut Songkhram
+7601;เมืองเพชรบุรี;Mueang Phetchaburi;76;เพชรบุรี;Phetchaburi
+7606;บ้านลาด;Ban Lat;76;เพชรบุรี;Phetchaburi
+7607;บ้านแหลม;Ban Laem;76;เพชรบุรี;Phetchaburi
+7605;ท่ายาง;Tha Yang;76;เพชรบุรี;Phetchaburi
+7602;เขาย้อย;Khao Yoi;76;เพชรบุรี;Phetchaburi
+7604;ชะอำ;Cha-am;76;เพชรบุรี;Phetchaburi
+7608;แก่งกระจาน;Kaeng Krachan;76;เพชรบุรี;Phetchaburi
+7603;หนองหญ้าปล้อง;Nong Ya Plong;76;เพชรบุรี;Phetchaburi
+7701;เมืองประจวบคีรีขันธ์;Mueang Prachuap Khiri Khan;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7703;ทับสะแก;Thap Sakae;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7702;กุยบุรี;Kui Buri;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7707;หัวหิน;Hua Hin;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7706;ปราณบุรี;Pran Buri;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7704;บางสะพาน;Bang Saphan;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7705;บางสะพานน้อย;Bang Saphan Noi;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+7708;สามร้อยยอด;Sam Roi Yot;77;ประจวบคีรีขันธ์;Prachuap Khiri Khan
+8015;ขนอม;Khanom;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8001;เมืองนครศรีธรรมราช;Mueang Nakhon Si Thammarat;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8019;จุฬาภรณ์;Chulabhorn;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8009;ทุ่งสง;Thung Song;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8006;เชียรใหญ่;Chian Yai;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8016;หัวไทร;Hua Sai;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8012;ปากพนัง;Pak Phanang;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8002;พรหมคีรี;Phrom Khiri;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8023;เฉลิมพระเกียรติ;Chaloem Phra Kiet;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8004;ฉวาง;Chawang;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8008;ท่าศาลา;Tha Sala;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8007;ชะอวด;Cha-uat;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8020;พระพรหม;Phra Phrom;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8013;ร่อนพิบูลย์;Ron Phibun;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8003;ลานสกา;Lan Saka;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8005;พิปูน;Phipun;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8022;ช้างกลาง;Chang Klang;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8014;สิชล;Sichon;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8021;นบพิตำ;Nopphitam;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8018;ถ้ำพรรณรา;Tham Phannara;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8010;นาบอน;Na Bon;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8011;ทุ่งใหญ่;Thung Yai;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8017;บางขัน;Bang Khan;80;นครศรีธรรมราช;Nakhon Si Thammarat
+8101;เมืองกระบี่;Mueang Krabi;81;กระบี่;Krabi
+8105;อ่าวลึก;Ao Luek;81;กระบี่;Krabi
+8103;เกาะลันตา;Ko Lanta;81;กระบี่;Krabi
+8108;เหนือคลอง;Nuea Khlong;81;กระบี่;Krabi
+8107;ลำทับ;Lam Thap;81;กระบี่;Krabi
+8106;ปลายพระยา;Plai Phraya;81;กระบี่;Krabi
+8104;คลองท่อม;Khlong Thom;81;กระบี่;Krabi
+8102;เขาพนม;Khao Phanom;81;กระบี่;Krabi
+8206;คุระบุรี;Khura Buri;82;พังงา;Phang-nga
+8202;เกาะยาว;Ko Yao;82;พังงา;Phang-nga
+8201;เมืองพังงา;Mueang Phang-nga;82;พังงา;Phang-nga
+8205;ตะกั่วป่า;Takua Pa;82;พังงา;Phang-nga
+8207;ทับปุด;Thap Put;82;พังงา;Phang-nga
+8204;ตะกั่วทุ่ง;Takua Thung;82;พังงา;Phang-nga
+8208;ท้ายเหมือง;Thai Mueang;82;พังงา;Phang-nga
+8203;กะปง;Kapong;82;พังงา;Phang-nga
+8301;เมืองภูเก็ต;Mueang Phuket;83;ภูเก็ต;Phuket
+8303;ถลาง;Thalang;83;ภูเก็ต;Phuket
+8302;กะทู้;Kathu;83;ภูเก็ต;Phuket
+8404;เกาะสมุย;Ko Samui;84;สุราษฎร์ธานี;Surat Thani
+8403;ดอนสัก;Don Sak;84;สุราษฎร์ธานี;Surat Thani
+8405;เกาะพะงัน;Ko Pha-ngan;84;สุราษฎร์ธานี;Surat Thani
+8401;เมืองสุราษฎร์ธานี;Mueang Surat Thani;84;สุราษฎร์ธานี;Surat Thani
+8417;พุนพิน;Phunphin;84;สุราษฎร์ธานี;Surat Thani
+8406;ไชยา;Chaiya;84;สุราษฎร์ธานี;Surat Thani
+8402;กาญจนดิษฐ์;Kanchanadit;84;สุราษฎร์ธานี;Surat Thani
+8408;คีรีรัฐนิคม;Khiri Rat Nikhom;84;สุราษฎร์ธานี;Surat Thani
+8413;บ้านนาเดิม;Ban Na Doem;84;สุราษฎร์ธานี;Surat Thani
+8412;บ้านนาสาร;Ban Na San;84;สุราษฎร์ธานี;Surat Thani
+8411;ท่าฉาง;Tha Chang;84;สุราษฎร์ธานี;Surat Thani
+8410;พนม;Phanom;84;สุราษฎร์ธานี;Surat Thani
+8407;ท่าชนะ;Tha Chana;84;สุราษฎร์ธานี;Surat Thani
+8409;บ้านตาขุน;Ban Ta Khun;84;สุราษฎร์ธานี;Surat Thani
+8416;พระแสง;Phrasaeng;84;สุราษฎร์ธานี;Surat Thani
+8415;เวียงสระ;Wiang Sa;84;สุราษฎร์ธานี;Surat Thani
+8414;เคียนซา;Khian Sa;84;สุราษฎร์ธานี;Surat Thani
+8418;ชัยบุรี;Chai Buri;84;สุราษฎร์ธานี;Surat Thani
+8419;วิภาวดี;Chai Buri;84;สุราษฎร์ธานี;Surat Thani
+8505;สุขสำราญ;Suk Samran;85;ระนอง;Ranong
+8501;เมืองระนอง;Mueang Ranong;85;ระนอง;Ranong
+8503;กะเปอร์;Papoe;85;ระนอง;Ranong
+8504;กระบุรี;Kra Buri;85;ระนอง;Ranong
+8502;ละอุ่น;La-un;85;ระนอง;Ranong
+8601;เมืองชุมพร;Mueang Chumphon;86;ชุมพร;Chumphon
+8607;สวี;Sawi;86;ชุมพร;Chumphon
+8603;ปะทิว;Pathio;86;ชุมพร;Chumphon
+8608;ทุ่งตะโก;Thung Tako;86;ชุมพร;Chumphon
+8604;หลังสวน;Lang Suan;86;ชุมพร;Chumphon
+8602;ท่าแซะ;Tha Sae;86;ชุมพร;Chumphon
+8605;ละแม;Lamae;86;ชุมพร;Chumphon
+8606;พะโต๊ะ;Phato;86;ชุมพร;Chumphon
+9008;กระแสสินธุ์;Krasae Sin;90;สงขลา;Songkhla
+9011;หาดใหญ่;Hat Yai;90;สงขลา;Songkhla
+9007;ระโนด;Ranot;90;สงขลา;Songkhla
+9001;เมืองสงขลา;Muaeng Songkhla;90;สงขลา;Songkhla
+9002;สทิงพระ;Sathing Phra;90;สงขลา;Songkhla
+9015;สิงหนคร;Singhanakhon;90;สงขลา;Songkhla
+9003;จะนะ;Chana;90;สงขลา;Songkhla
+9014;บางกล่ำ;Bang Klam;90;สงขลา;Songkhla
+9004;นาทวี;Na Thawi;90;สงขลา;Songkhla
+9012;นาหม่อม;Na Mom;90;สงขลา;Songkhla
+9013;ควนเนียง;Khuan Niang;90;สงขลา;Songkhla
+9009;รัตภูมิ;Rattaphum;90;สงขลา;Songkhla
+9016;คลองหอยโข่ง;Khlong Hoi Khong;90;สงขลา;Songkhla
+9010;สะเดา;Sadao;90;สงขลา;Songkhla
+9005;เทพา;Thepha;90;สงขลา;Songkhla
+9006;สะบ้าย้อย;Saba Yoi;90;สงขลา;Songkhla
+9101;เมืองสตูล;Mueang Satun;91;สตูล;Satun
+9105;ละงู;La-ngu;91;สตูล;Satun
+9102;ควนโดน;Khuan Don;91;สตูล;Satun
+9106;ทุ่งหว้า;Thung  Wa;91;สตูล;Satun
+9104;ท่าแพ;Tha Phae;91;สตูล;Satun
+9107;มะนัง;Manang;91;สตูล;Satun
+9103;ควนกาหลง;Khuan Kalong;91;สตูล;Satun
+9210;หาดสำราญ;Hat Samran;92;ตรัง;Trang
+9202;กันตัง;Kantang;92;ตรัง;Trang
+9205;สิเกา;Sikao;92;ตรัง;Trang
+9204;ปะเหลียน;Palian;92;ตรัง;Trang
+9201;เมืองตรัง;Mueang Trang;92;ตรัง;Trang
+9208;นาโยง;Na Yong;92;ตรัง;Trang
+9206;ห้วยยอด;Huai Yot;92;ตรัง;Trang
+9209;รัษฎา;Ratsada;92;ตรัง;Trang
+9203;ย่านตาขาว;Yan Ta Khao;92;ตรัง;Trang
+9207;วังวิเศษ;Wang Wiset;92;ตรัง;Trang
+9301;เมืองพัทลุง;Mueang Phatthalung;93;พัทลุง;Phatthalung
+9306;ปากพะยูน;Pak Phayun;93;พัทลุง;Phatthalung
+9303;เขาชัยสน;Khao Chaison;93;พัทลุง;Phatthalung
+9311;ศรีนครินทร์;Srinagarindra;93;พัทลุง;Phatthalung
+9305;ควนขนุน;Khuan Khanun;93;พัทลุง;Phatthalung
+9309;บางแก้ว;Bang Kaeo;93;พัทลุง;Phatthalung
+9302;กงหรา;Kong Ra;93;พัทลุง;Phatthalung
+9310;ป่าพยอม;Pa Phayom;93;พัทลุง;Phatthalung
+9304;ตะโหมด;Tamot;93;พัทลุง;Phatthalung
+9307;ศรีบรรพต;Si Banphot;93;พัทลุง;Phatthalung
+9308;ป่าบอน;Pa Bon;93;พัทลุง;Phatthalung
+9401;เมืองปัตตานี;Mueang Pattani;94;ปัตตานี;Pattani
+9403;หนองจิก;Nong Chik;94;ปัตตานี;Pattani
+9409;ยะหริ่ง;Yaring;94;ปัตตานี;Pattani
+9405;มายอ;Mayo;94;ปัตตานี;Pattani
+9408;ไม้แก่น;Mai Kaen;94;ปัตตานี;Pattani
+9410;ยะรัง;Yarang;94;ปัตตานี;Pattani
+9407;สายบุรี;Sai Buri;94;ปัตตานี;Pattani
+9404;ปะนาเระ;Panare;94;ปัตตานี;Pattani
+9402;โคกโพธิ์;Khok Pho;94;ปัตตานี;Pattani
+9411;กะพ้อ;Kapho;94;ปัตตานี;Pattani
+9412;แม่ลาน;Mae Lan;94;ปัตตานี;Pattani
+9406;ทุ่งยางแดง;Thung Yang Daeng;94;ปัตตานี;Pattani
+9506;รามัน;Raman;95;ยะลา;Yala
+9501;เมืองยะลา;Mueang Yala;95;ยะลา;Yala
+9505;ยะหา;Yaha;95;ยะลา;Yala
+9508;กรงปีนัง;Krong Pinang;95;ยะลา;Yala
+9504;ธารโต;Than To;95;ยะลา;Yala
+9503;บันนังสตา;Bannang Sata;95;ยะลา;Yala
+9502;เบตง;Betong;95;ยะลา;Yala
+9507;กาบัง;Kabang;95;ยะลา;Yala
+9601;เมืองนราธิวาส;Mueang Narathiwat;96;นราธิวาส;Narathiwat
+9603;บาเจาะ;Tak Bai;96;นราธิวาส;Narathiwat
+9604;ยี่งอ;Yi-ngo;96;นราธิวาส;Narathiwat
+9610;สุไหงโก-ลก;Su-ngai Kolok;96;นราธิวาส;Narathiwat
+9602;ตากใบ;Tak Bai;96;นราธิวาส;Narathiwat
+9608;แว้ง;Waeng;96;นราธิวาส;Narathiwat
+9612;จะแนะ;Chanae;96;นราธิวาส;Narathiwat
+9611;สุไหงปาดี;Su-ngai Padi;96;นราธิวาส;Narathiwat
+9607;ศรีสาคร;Si Sakhon;96;นราธิวาส;Narathiwat
+9606;รือเสาะ;Rueso;96;นราธิวาส;Narathiwat
+9605;ระแงะ;Ra-ngae;96;นราธิวาส;Narathiwat
+9613;เจาะไอร้อง;Cho-airong;96;นราธิวาส;Narathiwat
+9609;สุคิริน;Sukhirin;96;นราธิวาส;Narathiwat
